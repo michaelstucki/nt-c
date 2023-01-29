@@ -1,0 +1,1 @@
+void logCurrentTimeStamp(FILE*);
