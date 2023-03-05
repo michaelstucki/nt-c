@@ -29,6 +29,7 @@ int main()
         }
     }
     printSol(fp_log, best);
+    deleteSolution(fp_log, best);
 
     printf("Look in %s for results.\n", LOG);
     printf("Goodbye!\n");

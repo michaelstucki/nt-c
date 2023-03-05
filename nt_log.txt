@@ -1,32 +1,32 @@
-03:04:2023 16:31:12: solution fit: 66
-03:04:2023 16:31:12: numberOfWords: 34515
-03:04:2023 16:31:12: printLibrary: title: ro, numberOfWords: 7111, id: 5
-03:04:2023 16:31:12: printLibrary: title: 1co, numberOfWords: 6829, id: 6
-03:04:2023 16:31:12: printLibrary: title: gal, numberOfWords: 2230, id: 8
-03:04:2023 16:31:12: printLibrary: title: mt, numberOfWords: 18345, id: 0
-03:04:2023 16:31:12: numberOfWords: 34523
-03:04:2023 16:31:12: printLibrary: title: jd, numberOfWords: 461, id: 25
-03:04:2023 16:31:12: printLibrary: title: 2co, numberOfWords: 4477, id: 7
-03:04:2023 16:31:12: printLibrary: title: eph, numberOfWords: 2422, id: 9
-03:04:2023 16:31:12: printLibrary: title: lk, numberOfWords: 19482, id: 2
-03:04:2023 16:31:12: printLibrary: title: 2pe, numberOfWords: 1099, id: 21
-03:04:2023 16:31:12: printLibrary: title: heb, numberOfWords: 4953, id: 18
-03:04:2023 16:31:12: printLibrary: title: php, numberOfWords: 1629, id: 10
-03:04:2023 16:31:12: numberOfWords: 34510
-03:04:2023 16:31:12: printLibrary: title: 1pe, numberOfWords: 1684, id: 20
-03:04:2023 16:31:12: printLibrary: title: 2tm, numberOfWords: 1238, id: 15
-03:04:2023 16:31:12: printLibrary: title: jo, numberOfWords: 15635, id: 3
-03:04:2023 16:31:12: printLibrary: title: 1tm, numberOfWords: 1591, id: 14
-03:04:2023 16:31:12: printLibrary: title: rev, numberOfWords: 9852, id: 26
-03:04:2023 16:31:12: printLibrary: title: 3jo, numberOfWords: 219, id: 24
-03:04:2023 16:31:12: printLibrary: title: 1th, numberOfWords: 1481, id: 12
-03:04:2023 16:31:12: printLibrary: title: jms, numberOfWords: 1742, id: 19
-03:04:2023 16:31:12: printLibrary: title: 2jo, numberOfWords: 245, id: 23
-03:04:2023 16:31:12: printLibrary: title: 2th, numberOfWords: 823, id: 13
-03:04:2023 16:31:12: numberOfWords: 34472
-03:04:2023 16:31:12: printLibrary: title: mk, numberOfWords: 11304, id: 1
-03:04:2023 16:31:12: printLibrary: title: col, numberOfWords: 1582, id: 11
-03:04:2023 16:31:12: printLibrary: title: phm, numberOfWords: 335, id: 17
-03:04:2023 16:31:12: printLibrary: title: ac, numberOfWords: 18451, id: 4
-03:04:2023 16:31:12: printLibrary: title: tit, numberOfWords: 659, id: 16
-03:04:2023 16:31:12: printLibrary: title: 1jo, numberOfWords: 2141, id: 22
+03:05:2023 14:41:25: solution fit: 42
+03:05:2023 14:41:25: numberOfWords: 34511
+03:05:2023 14:41:25: printLibrary: title: ro, numberOfWords: 7111, id: 5
+03:05:2023 14:41:25: printLibrary: title: mk, numberOfWords: 11304, id: 1
+03:05:2023 14:41:25: printLibrary: title: jo, numberOfWords: 15635, id: 3
+03:05:2023 14:41:25: printLibrary: title: jd, numberOfWords: 461, id: 25
+03:05:2023 14:41:25: numberOfWords: 34510
+03:05:2023 14:41:25: printLibrary: title: 2tm, numberOfWords: 1238, id: 15
+03:05:2023 14:41:25: printLibrary: title: heb, numberOfWords: 4953, id: 18
+03:05:2023 14:41:25: printLibrary: title: jms, numberOfWords: 1742, id: 19
+03:05:2023 14:41:25: printLibrary: title: mt, numberOfWords: 18345, id: 0
+03:05:2023 14:41:25: printLibrary: title: phm, numberOfWords: 335, id: 17
+03:05:2023 14:41:25: printLibrary: title: 2th, numberOfWords: 823, id: 13
+03:05:2023 14:41:25: printLibrary: title: 2jo, numberOfWords: 245, id: 23
+03:05:2023 14:41:25: printLibrary: title: 1co, numberOfWords: 6829, id: 6
+03:05:2023 14:41:25: numberOfWords: 34515
+03:05:2023 14:41:25: printLibrary: title: 1pe, numberOfWords: 1684, id: 20
+03:05:2023 14:41:25: printLibrary: title: php, numberOfWords: 1629, id: 10
+03:05:2023 14:41:25: printLibrary: title: eph, numberOfWords: 2422, id: 9
+03:05:2023 14:41:25: printLibrary: title: gal, numberOfWords: 2230, id: 8
+03:05:2023 14:41:25: printLibrary: title: 1th, numberOfWords: 1481, id: 12
+03:05:2023 14:41:25: printLibrary: title: 1jo, numberOfWords: 2141, id: 22
+03:05:2023 14:41:25: printLibrary: title: 2co, numberOfWords: 4477, id: 7
+03:05:2023 14:41:25: printLibrary: title: ac, numberOfWords: 18451, id: 4
+03:05:2023 14:41:25: numberOfWords: 34484
+03:05:2023 14:41:25: printLibrary: title: col, numberOfWords: 1582, id: 11
+03:05:2023 14:41:25: printLibrary: title: 3jo, numberOfWords: 219, id: 24
+03:05:2023 14:41:25: printLibrary: title: tit, numberOfWords: 659, id: 16
+03:05:2023 14:41:25: printLibrary: title: 1tm, numberOfWords: 1591, id: 14
+03:05:2023 14:41:25: printLibrary: title: rev, numberOfWords: 9852, id: 26
+03:05:2023 14:41:25: printLibrary: title: 2pe, numberOfWords: 1099, id: 21
+03:05:2023 14:41:25: printLibrary: title: lk, numberOfWords: 19482, id: 2
